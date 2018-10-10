@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Starbucksapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_logo">Starbucks</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Places</item>
+    </string-array>
+    <string name="title_activity_drink">DrinkActivity</string>
+    <string name="title_activity_drink2">DrinkActivity2</string>
+    <string name="title_activity_drink3">DrinkActivity3</string>
+    <string name="latte">Latte</string>
+    <string name="lattedesc">A latte is a coffee drink made with espresso and steamed milk.</string>
+    <string name="cappucino">Cappucino</string>
+    <string name="cappucinodesc">A cappuccino is an espresso-based coffee drink that originated in Italy, and is traditionally prepared with double espresso and steamed milk foam.</string>
+    <string name="filter">Filter Coffee</string>
+    <string name="filterdesc">A regular coffee made with beans</string>
+</resources>
